@@ -49,7 +49,7 @@ h1.page-title {
 .nav-list {
   display: flex;
   flex-direction: row;
-  position: relative;
+  position: sticky;
   right: 30px;
   list-style: none;
 }
