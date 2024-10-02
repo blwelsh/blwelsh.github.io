@@ -19,7 +19,7 @@ main {
   align-items: center;
 }
 
-.page-title {
+h1.page-title {
   font-size: 45px;
 }
 
