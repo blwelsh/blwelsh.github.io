@@ -8,7 +8,7 @@ body {
   min-height: 100vh;
   padding: 0;
   margin: 0;
-  font-family: sans-serif;
+  font-family: "Helvectica", "Arial", sans-serif;
 }
 
 main {
@@ -87,4 +87,12 @@ footer {
 
 input[required] {
   text-decoration: underline;
+}
+
+
+/* About Image */
+
+.about-image {
+  display: flex;
+  justify-content: center;
 }
