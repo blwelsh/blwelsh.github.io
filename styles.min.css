@@ -64,8 +64,8 @@ h1.page-title {
 
 .navbar a:hover {
   color: lightblue;
-  transition: color 0.5s;
   border-bottom: solid white 2px;
+  transition: color 0.5s, border 0.2s;
 
 }
 
