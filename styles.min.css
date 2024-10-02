@@ -62,6 +62,13 @@ h1.page-title {
   letter-spacing: 2px;
 }
 
+.navbar a:hover {
+  color: lightblue;
+  transition: color 0.5s;
+  border-bottom: solid white 2px;
+
+}
+
 /* CSS for page footer */
 
 footer {
