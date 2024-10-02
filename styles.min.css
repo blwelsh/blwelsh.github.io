@@ -85,10 +85,19 @@ footer {
 
 /* CSS for form */
 
+.contact-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 input[required] {
   text-decoration: underline;
 }
 
+.form-list{
+  list-style: none;
+}
 
 /* About Image */
 
