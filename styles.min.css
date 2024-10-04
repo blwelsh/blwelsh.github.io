@@ -20,8 +20,9 @@ main {
 }
 
 h1.page-title {
+  color: #191729;
   font-size: 45px;
-  border-bottom: solid black 4px;
+  border-bottom: solid #191729 4px;
 }
 
 /* CSS for navigation bar */
@@ -39,7 +40,7 @@ h1.page-title {
   align-items: center;
   text-align: center;
 
-  background-color: black;
+  background-color: #191729;
   color: white;
   padding: 0px 0px;
 
@@ -76,7 +77,7 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: black;
+  background-color: #191729;
   color: white;
   position: absolute;
   bottom: 0;
@@ -120,7 +121,7 @@ input[required] {
 }
 
 .submit {
-  background-color: black;
+  background-color: #191729;
   color: white;
   height: 200%;
   width: 100%;
@@ -132,18 +133,23 @@ input[required] {
 .about-image {
   display: flex;
   justify-content: center;
-  border-right: solid black 4px;
+  border-right: solid #191729 4px;
 }
  
 
 .about {
   display: flex;
   gap: 20px;
-  border: solid black 4px;
+  border: solid #191729 4px;
   justify-content: center;
   background-color: white;
 }
 
 .about-text {
   padding: 20px 20px 20px 0px;
+}
+
+
+.section-title {
+  border-bottom: solid 3px #191729;
 }
