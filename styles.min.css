@@ -105,3 +105,9 @@ input[required] {
   display: flex;
   justify-content: center;
 }
+ 
+
+.about {
+  display: flex;
+  gap: 20px;
+}
