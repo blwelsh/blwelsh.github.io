@@ -21,6 +21,7 @@ main {
 
 h1.page-title {
   font-size: 45px;
+  border-bottom: solid black 4px;
 }
 
 /* CSS for navigation bar */
